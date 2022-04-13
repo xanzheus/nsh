@@ -1,3 +1,3 @@
 # nsh
 nothing spesial here
-muzakisearch.com
+muzakiresearch.com
